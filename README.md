@@ -18,6 +18,17 @@ I build web applications end to end — NestJS and GraphQL APIs, Next.js and Rea
 | **ColdBrew** | Coffee-shop e-commerce with an order lifecycle, loyalty points and a server-rendered admin panel | Express · React · Redux Toolkit · MongoDB · EJS | [Live](http://187.127.220.109:3000) · [Frontend](https://github.com/khodiboev/coldbrew-react) · [Backend](https://github.com/khodiboev/coldbrew) |
 | **Menu Detector** | Food image classifier with 94.8% balanced accuracy; web-scraped data cleaned with CLIP zero-shot filtering | PyTorch · MobileNetV2 · CLIP · scikit-learn | [Code](https://github.com/khodiboev/computer_vision) |
 
+## Small Mac tools, built with AI
+
+A little series of free, open-source macOS menu bar apps. Each one started as a small annoyance I kept running into, then I built it with the help of AI — from the first idea to a working app on GitHub. They all run fully on-device: no internet, no accounts, nothing recorded.
+
+| App | What it does | Links |
+|---|---|---|
+| 👁 **Glance Focus** | Look at a monitor and your cursor jumps there; the screen you're not using frosts over | [Code](https://github.com/khodiboev/GlanceFocus) |
+| 🔎 **ScreenOCR** | Press ⌥S, drag over any text on screen, and it's copied — with translate, history and QR codes | [Code](https://github.com/khodiboev/ScreenOCR) |
+| 🧍 **PostureGuard** | Slouch for too long and your screen edges glow red; sit up, and it fades | [Code](https://github.com/khodiboev/PostureGuard) |
+| 🛡️ **GuardFace** | Step away or let someone look over your shoulder, and the screen blurs or locks itself | [Code](https://github.com/khodiboev/GuardFace) |
+
 ## Tech stack
 
 - **Frontend** — TypeScript, React, Next.js, Apollo Client, Redux Toolkit, MUI, SCSS
